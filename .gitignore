@@ -29,5 +29,5 @@
 
 # vim tmp
 *.swp
-
+.*.*.swap
 

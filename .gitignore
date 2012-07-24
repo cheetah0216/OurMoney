@@ -26,3 +26,8 @@
 *.log
 *.sql
 *.sqlite
+
+# vim tmp
+*.swp
+
+

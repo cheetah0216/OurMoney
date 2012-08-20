@@ -1,0 +1,7 @@
+./mysql_db.c
+./socket.c
+./socket.h
+./struct.h
+./clent.c
+./mysql_db.h
+./main.c

@@ -1,0 +1,378 @@
+# 这个 viminfo 文件是由 Vim 7.3 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~MSle0~/parmp
+
+# 上个 替换 Search 图案：
+~MSle0&\v^\+ (.*)\/([^\/]+\/=)$
+
+# 最后替换的字符串
+$+ \2 (\1\/\2)
+
+# 命令行 历史记录 (从新到旧)：
+:w
+:q
+:37
+:32
+:26
+:set nu
+:wq
+:.cc
+:q!
+:$
+:1
+:cs add /home/liufei/work/bp12/cscope.out /home/liufei/work/bp12
+:set tags=/home/liufei/work/bp12/tags
+:pwd
+:cd /home/liufei/work/bp12
+:cd /home/liufei/work/bo12
+:source session.vim
+::TMiniBufExplorer  
+:rviminfo session.viminfo
+:!rm session.vim
+:rm session.vim
+:source /home/liufei/work/bp12/session.vim
+:cd /home/liufei/work/
+:ee
+:ss
+:ws
+:,sv
+: lf
+:lf
+:e ~/.vimrc
+:q:
+:Q!
+:rviminfo bp12.viminfo
+:source /home/liufei/work/bp12/bp12.vim
+:qa
+:wviminfo bp12.viminfo
+:mksession bp12.vim
+:set sessionoptions+=sesdir
+:set sessionoptions-=curdir
+:ped
+:set tags=/home/liufei/下载/vim73/tags
+:cs add /home/liufei/下载/vim73/cscope.out /home/liufei/下载/vim73
+:cs find c arb_num_is_zero
+:cd add /home/liufei/下载/vim73/cscope.out /home/liufei/下载/vim73
+:zM
+:set tags=/home/liufei/soft/vim/ctags-5.8/tags
+:Q
+:cw
+:cs find c arb_num_comp
+:cs find c arb_bun_comp
+:cs find c create_copy_bill
+:cs find g create_copy_bill
+:cd find g set_perf_timer
+:cs find set_perl_timer
+:wm
+:Tlist
+:ts
+:13
+:10
+:help
+:help keycodes
+:25
+::let g:LookupFile_TagExpr = '"./filenametags"'
+:find msg_numbers.h
+:help syntax.txt 
+
+# 查找字符串 历史记录 (从新到旧)：
+?/parmp
+?/alias
+?/setnouse
+?/arbor
+? \<TAXES\>
+? \<tax\>
+? ^" \a
+? \<of\>
+?/pcn
+?/pcn_balance
+? \<with\>
+?/set
+?/plural
+? \<pcn\>
+? \<trans_info\>
+? \<tax_invoice\>
+
+# 表达式 历史记录 (从新到旧)：
+========================================================
+
+# 输入行 历史记录 (从新到旧)：
+@\<trans_info\>
+@*.c *.cpp *.h
+@Pcn_list
+@get_transactions
+@\<pcn\>
+@/home/liufei/work/bp12
+@Arb_numberic_to_int
+@*
+@case
+@\<tax_invoice\>
+@/home/liufei/work/bip
+@tax_invoice(
+@total_taxes
+@\<of\>
+@\<with\>
+@\<not\>
+@collect_account_data
+@log_perf_time
+@return_status
+@arb_put_state
+@\<TAXES\>
+@\<tax\>
+@*.h
+@pcn
+@*.c *.h
+@\<status\>
+@*.c
+@status
+@static
+@*c
+@*h,*c
+@Returns
+@arb_num_arith
+@Arb_numeric
+@incr_perf_nest
+@none
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"1	CHAR	0
+	
+	
+"2	LINE	0
+	.*.*.swap
+"3	CHAR	0
+	 
+"4	LINE	0
+	echo "sh -T csser-github "
+"5	LINE	0
+	git clone git@github.com:cheetah0216/OurMoney.git
+"6	LINE	0
+	
+"7	LINE	0
+	http://us-dnv-cquest/cqweb/main?command=GenerateMainFrame&service=CQ&schema=VCNTR&contextid=RELDB&entityID=33567224&entityDefName=Comp
+"8	LINE	0
+	http://wm1e14.263.net/mail/login/show/loginShowAction_loginShow.do?usr=i0519@cienet.com.cn&sid=MWkyMDM1NTE1OTdAM2M5aTBl&isp_domain=&useCDN=1
+"9	LINE	0
+	
+"q	CHAR	0
+	
+""-	CHAR	0
+	w
+
+# 文件标记:
+'0  17  6  /home/liufei/github/OurMoney/main.c
+'1  46  0  /home/liufei/github/OurMoney/socket.c
+'2  37  0  /home/liufei/github/OurMoney/main.c
+'3  12  0  ~/setgit.sh
+'4  35  0  ~/setvim.sh
+'5  41  0  ~/.gitignore
+'6  22  0  ~/setgit.sh
+'7  828  0  /home/liufei/work/bip/bip_usage.c
+'8  137  0  /home/liufei/work/bip/bip_usage.c
+'9  739  0  /etc/hosts
+
+# 跳转列表 (从新到旧):
+-'  17  6  /home/liufei/github/OurMoney/main.c
+-'  25  0  /home/liufei/github/OurMoney/main.c
+-'  46  0  /home/liufei/github/OurMoney/socket.c
+-'  16  0  /home/liufei/github/OurMoney/main.c
+-'  1  0  /home/liufei/github/OurMoney/socket.c
+-'  1  0  /home/liufei/github/OurMoney/main.c
+-'  37  0  /home/liufei/github/OurMoney/main.c
+-'  26  0  /home/liufei/github/OurMoney/socket.c
+-'  65  30  /home/liufei/github/OurMoney/main.c
+-'  40  0  /home/liufei/github/OurMoney/main.c
+-'  41  0  /home/liufei/github/OurMoney/main.c
+-'  12  0  ~/setgit.sh
+-'  1  0  ~/setgit.sh
+-'  35  0  ~/setvim.sh
+-'  1  0  ~/setvim.sh
+-'  41  0  ~/.gitignore
+-'  32  4  ~/.gitignore
+-'  1  0  ~/.gitignore
+-'  22  0  ~/setgit.sh
+-'  21  9  ~/setgit.sh
+-'  20  9  ~/setgit.sh
+-'  19  9  ~/setgit.sh
+-'  828  0  /home/liufei/work/bip/bip_usage.c
+-'  921  16  /home/liufei/work/bip/bip_usage.c
+-'  669  23  /home/liufei/work/bip/bip_usage.c
+-'  110  24  /home/liufei/work/bip/bip_usage.c
+-'  52  0  /home/liufei/work/bip/bip_usage.c
+-'  548  29  /home/liufei/work/bip/bip_usage.c
+-'  804  18  /home/liufei/work/bip/bip_usage.c
+-'  3044  0  /home/liufei/work/bip/bip_tax.c
+-'  1202  0  /home/liufei/work/bip/bip_tax_interface.cpp
+-'  1220  0  /home/liufei/work/bip/bip_adj.c
+-'  982  16  /home/liufei/work/bip/bip_usage.c
+-'  59  0  /home/liufei/work/bip/bip_equip_aux.c
+-'  84  0  /home/liufei/work/bip/bip_credit_note.c
+-'  1962  5  /home/liufei/work/bip/bip_discount.c
+-'  209  4  /home/liufei/work/bip/bip_ccard.c
+-'  220  0  /home/liufei/work/bip/bip_ccard.c
+-'  1154  0  /home/liufei/work/bip/bip_adj.c
+-'  1013  0  /home/liufei/work/bip/bip_adj.c
+-'  1529  4  /home/liufei/work/bip/bip_account.c
+-'  1518  0  /home/liufei/work/bip/bip_account.c
+-'  1364  1  /home/liufei/work/bip/bip_account.c
+-'  966  7  /home/liufei/work/bip/bip_account.c
+-'  960  8  /home/liufei/work/bip/bip_account.c
+-'  929  2  /home/liufei/work/bip/bip_account.c
+-'  892  0  /home/liufei/work/bip/bip_account.c
+-'  204  0  /home/liufei/work/bip/nce_nrc.c
+-'  288  0  /home/liufei/work/bip/rce_account.c
+-'  925  0  /home/liufei/work/bip/bip_account.c
+-'  287  0  /home/liufei/work/bip/bip_global.h
+-'  888  47  /home/liufei/work/bip/bip_account.c
+-'  717  0  /home/liufei/work/bip/bip_usage.c
+-'  209  0  /home/liufei/work/bip/bip_account.c
+-'  137  0  /home/liufei/work/bip/bip_usage.c
+-'  91  0  /home/liufei/work/bip/bip_account.c
+-'  125  0  /home/liufei/work/bip/bip_usage.c
+-'  396  0  /home/liufei/work/bip/bip_proto.h
+-'  270  16  /home/liufei/work/bip/bip_usage.c
+-'  258  16  /home/liufei/work/bip/bip_usage.c
+-'  233  16  /home/liufei/work/bip/bip_usage.c
+-'  221  16  /home/liufei/work/bip/bip_usage.c
+-'  196  16  /home/liufei/work/bip/bip_usage.c
+-'  184  16  /home/liufei/work/bip/bip_usage.c
+-'  524  0  /home/liufei/work/bip/bip_discount.c
+-'  1  0  /home/liufei/work/bip/bip_discount.c
+-'  660  0  /home/liufei/work/bip/bip_usage.c
+-'  74  0  /home/liufei/work/bip/bip_usage.c
+-'  2466  32  /home/liufei/work/bip/bip_usage.c
+-'  2449  14  /home/liufei/work/bip/bip_usage.c
+-'  535  62  /home/liufei/work/bip/bip_usage.c
+-'  148  23  /home/liufei/work/bip/bip_usage.c
+-'  180  0  /home/liufei/work/bip/bip_usage.c
+-'  37  0  /home/liufei/work/bip/bip_usage.c
+-'  53  0  /home/liufei/work/bip/bip_usage.c
+-'  618  20  /home/liufei/work/bip/bip_usage.c
+-'  1744  0  /home/liufei/work/bip/bip_usage.c
+-'  4  0  ~/.ssh/config
+-'  1  0  ~/.ssh/config
+-'  6  32  ~/.ssh/config
+-'  828  0  /home/liufei/work/bip/bip_usage.c
+-'  921  16  /home/liufei/work/bip/bip_usage.c
+-'  669  23  /home/liufei/work/bip/bip_usage.c
+-'  110  24  /home/liufei/work/bip/bip_usage.c
+-'  52  0  /home/liufei/work/bip/bip_usage.c
+-'  548  29  /home/liufei/work/bip/bip_usage.c
+-'  804  18  /home/liufei/work/bip/bip_usage.c
+-'  3044  0  /home/liufei/work/bip/bip_tax.c
+-'  1202  0  /home/liufei/work/bip/bip_tax_interface.cpp
+-'  1220  0  /home/liufei/work/bip/bip_adj.c
+-'  982  16  /home/liufei/work/bip/bip_usage.c
+-'  59  0  /home/liufei/work/bip/bip_equip_aux.c
+
+# 文件内的标记历史记录 (从新到旧):
+
+> /home/liufei/github/OurMoney/main.c
+	"	17	6
+	^	17	7
+	.	17	6
+	+	41	0
+	+	40	0
+	+	9	0
+	+	10	0
+	+	39	1
+	+	80	1
+	+	50	0
+	+	63	0
+	+	25	0
+	+	3	23
+	+	4	21
+	+	6	0
+	+	22	20
+	+	15	0
+	+	22	37
+	+	23	33
+	+	24	29
+	+	25	0
+	+	25	0
+	+	32	0
+	+	36	1
+	+	26	37
+	+	29	35
+	+	24	34
+	+	17	6
+
+> /home/liufei/github/OurMoney/socket.c
+	"	46	0
+
+> /home/liufei/github/OurMoney/-MiniBufExplorer-
+	"	1	0
+	.	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	2	0
+
+> /home/liufei/github/OurMoney/[File List]
+	"	5	0
+	.	3	0
+	+	49	0
+	+	27	0
+	+	3	0
+	t	5	0
+
+> /home/liufei/github/OurMoney/__Tag_List__
+	"	5	4
+	.	6	0
+	+	24	0
+	+	24	0
+	+	24	0
+	+	24	0
+	+	23	0
+	+	19	0
+	+	18	0
+	+	7	0
+	+	6	0
